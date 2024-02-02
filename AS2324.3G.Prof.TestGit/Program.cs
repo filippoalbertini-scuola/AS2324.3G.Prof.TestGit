@@ -5,6 +5,14 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            // salutami
+
+            string nome;
+
+            nome = Console.ReadLine();
+
+            Console.WriteLine("Ciao " + nome);
         }
     }
 }
