@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Prof;3G;2/2/24;Test GitHub");
+
+
             Console.WriteLine("Hello, World!");
 
             // salutami
